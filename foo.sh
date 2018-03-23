@@ -3,3 +3,5 @@
 echo yay
 
 echo boo
+
+exit 1
